@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "747133503553",
+    "firebase_url": "https://authentication-1545373577687.firebaseio.com",
+    "project_id": "authentication-1545373577687",
+    "storage_bucket": "authentication-1545373577687.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747133503553:android:61c84e4422a5d3e5",
+        "android_client_info": {
+          "package_name": "com.karthi.bezzietech.bettervideoplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747133503553-fe3qq42p4uol1lrs0hvd5gslo1723nbs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karthi.bezzietech.bettervideoplayer",
+            "certificate_hash": "483e0b7b881547aea5b52edefcc1928d55a41e18"
+          }
+        },
+        {
+          "client_id": "747133503553-35k1rmpr0bu0lavfrqi2kv4rb5ppg5qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZFI3kv_HAbgR3RA522UntctbkrlOOsAc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747133503553-35k1rmpr0bu0lavfrqi2kv4rb5ppg5qn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
